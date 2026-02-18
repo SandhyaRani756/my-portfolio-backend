@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "career_objectives",
+  "info": {
+    "singularName": "career-objective",
+    "pluralName": "career-objectives",
+    "displayName": "Career Objective"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "objective": {
+      "type": "text"
+    }
+  }
+}

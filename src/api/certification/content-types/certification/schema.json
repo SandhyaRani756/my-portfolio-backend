@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "certifications",
+  "info": {
+    "singularName": "certification",
+    "pluralName": "certifications",
+    "displayName": "certification"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "Platform": {
+      "type": "string"
+    },
+    "year": {
+      "type": "biginteger"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
